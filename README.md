@@ -1,6 +1,6 @@
 # DCIT318 – Assignment 2
 
-**Name:** Prince William Norgbe 
+**Name:** Prince William Norgbe  
 **Student ID:** 11308636  
 **Course:** DCIT 318 – Programming II  
 **Assignment:** Object-Oriented Programming in C#
